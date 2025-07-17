@@ -1,5 +1,5 @@
 # RubiCon Media Tool – README
-
+Day 2 in the starting of the prosject
 ![RubiCon Media Tool Screenshot](https://www.rubiconmedia.no/Skjermbilde%202025-07-17%20181245.png)
 
 ## Introduction
