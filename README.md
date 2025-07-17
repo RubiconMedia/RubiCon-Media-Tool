@@ -1,6 +1,6 @@
 # RubiCon Media Tool – README
 Day 2 in the starting of the prosject
-![RubiCon Media Tool Screenshot](https://www.rubiconmedia.no/Skjermbilde%202025-07-17%20181245.png)
+![RubiCon Media Tool Screenshot](https://www.rubiconmedia.no/denne.png)
 ## Introduction
 
 RubiCon Media Tool is a next-generation, modular Windows application for creative production powered by advanced artificial intelligence. The platform enables creators, developers, and designers to work seamlessly across image, video, 3D, code, website, and game modules—each managed independently for maximum flexibility and scalability.
@@ -15,7 +15,7 @@ Website: [www.rubiconmedia.no](https://www.rubiconmedia.no)
 *A new website will be launched to better showcase the new software.*
 
 day 2 of the prosject
-![RubiCon Media Tool Screenshot](https://www.rubiconmedia.no/denne.png)
+![RubiCon Media Tool Screenshot](https://www.rubiconmedia.no/Skjermbilde%202025-07-17%20181245.png)
 
 ## Join the Team & Future Company Formation
 
