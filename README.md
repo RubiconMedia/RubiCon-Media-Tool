@@ -17,14 +17,16 @@ Website: [www.rubiconmedia.no](https://www.rubiconmedia.no)
 day 2 of the prosject
 ![RubiCon Media Tool Screenshot](https://www.rubiconmedia.no/Skjermbilde%202025-07-17%20234927.png)
 
-## Join the Team & Future Company Formation
+# Join the Team & Help Launch RubiCon Media Studio AS
+I’m looking for passionate developers to help build RubiCon Media Tool. Those who contribute and remain committed until the project's launch will be invited to co-found the new company: RubiCon Media Studio AS.
 
-I am actively seeking dedicated developers to join RubiCon Media Tool. Those who contribute and stay with the project until launch will be invited to co-found a new company with me. All founding developers will receive:
-- A fair share of company ownership (owner retains 60%, the remaining 40% is divided among developers who join and stay)
-- Leadership roles and voting/signature rights
-- Equity/shares based on contribution and commitment
+Founding Contributors Will Receive:
+- Equity Ownership: The founder retains a majority stake, with the remaining portion fairly distributed among team members based on contribution and long-term commitment.
+- Leadership Roles: Eligible for board membership, voting rights, and signature authority.
+- Influence and Responsibility: A meaningful role in shaping the company’s future and recognition for your efforts.
+  
+My goal is to build a collaborative team where everyone is valued and has a real stake in what we create together.
 
-My goal is to build a strong, collaborative team where everyone is rewarded fairly for their work and has a real stake in the future of the company.
 
 If you are interested in joining, please contact support@rubiconmedia.no
 ![RubiCon Media Tool Screenshot](https://www.rubiconmedia.no/devteam.jpg)
