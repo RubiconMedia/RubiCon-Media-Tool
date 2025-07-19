@@ -8,9 +8,9 @@ RubiCon Media Tool is a next-generation, modular Windows application for creativ
 Users interact with Rubi AI Chat, an intelligent language model that interprets commands and executes tasks directly within the application. The system is designed for professional workflows, supporting rapid prototyping, content generation, and collaborative development.
 
 **Project Ownership:**
-Developed and maintained by Cell Magic Limited (RubiCon Media).
+Developed and maintained by RubiCon Media Studio
 Lead Developer & Company Owner: Tobias Hillstrand Østen
-Contact: Tobias@rubiconmedia.no
+Contact: Support@rubiconmedia.no
 Website: [www.rubiconmedia.no](https://www.rubiconmedia.no)
 
 day 2 of the prosject
