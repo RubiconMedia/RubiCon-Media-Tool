@@ -12,7 +12,6 @@ Developed and maintained by Cell Magic Limited (RubiCon Media).
 Lead Developer & Company Owner: Tobias Hillstrand Østen
 Contact: Tobias@rubiconmedia.no
 Website: [www.rubiconmedia.no](https://www.rubiconmedia.no)
-*A new website will be launched to better showcase the new software.*
 
 day 2 of the prosject
 ![RubiCon Media Tool Screenshot](https://www.rubiconmedia.no/Skjermbilde%202025-07-17%20234927.png)
