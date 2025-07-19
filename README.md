@@ -27,7 +27,7 @@ I am actively seeking dedicated developers to join RubiCon Media Tool. Those who
 My goal is to build a strong, collaborative team where everyone is rewarded fairly for their work and has a real stake in the future of the company.
 
 If you are interested in joining, please contact me directly at Tobias@rubiconmedia.no.
-![RubiCon Media Tool Screenshot](www.rubiconmedia.no/devteam.jpg)
+![RubiCon Media Tool Screenshot](https://www.rubiconmedia.no/devteam.jpg)
 ---
 
 ## Project Structure
